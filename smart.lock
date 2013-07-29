@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "accounts-anonymous": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "accounts-anonymous": {
+        "path": "."
+      }
+    }
+  }
+}
