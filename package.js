@@ -11,5 +11,5 @@ Package.on_use(function (api, where) {
 
 Package.on_test(function (api) {
   api.use(['meteor-accounts-anonymous', 'tinytest', 'test-helpers'], ['client', 'server']);
-  api.add_files('anonymous_tests.js', ['client', 'server']);
+  api.add_files('anonymous_tests.js', ['client']);
 });
