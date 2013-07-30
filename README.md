@@ -1,7 +1,5 @@
-Accounts Anonymous
+Accounts Anonymous [![Build Status](https://travis-ci.org/culshaw/meteor-accounts-anonymous.png?branch=master)](https://travis-ci.org/culshaw/meteor-accounts-anonymous)
 ==================
-
-[![Build Status](https://travis-ci.org/culshaw/meteor-accounts-anonymous.png?branch=master)](https://travis-ci.org/culshaw/meteor-accounts-anonymous)
 
 ## Updated for Meteor 0.6.4.1
 
